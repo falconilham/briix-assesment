@@ -1,0 +1,19 @@
+// app global css in SCSS form
+.border-custom{
+  border: solid 1px !important
+}
+
+#button-add{
+  // position: absolute;
+  // bottom: 10px;
+  // right: 10px;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px;
+  background-color: white;
+  border-radius: 50%;
+}
